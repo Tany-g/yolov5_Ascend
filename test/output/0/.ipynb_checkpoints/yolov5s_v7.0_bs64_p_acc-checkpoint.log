@@ -1,0 +1,8 @@
+Network = yolov5s_v7.0
+RankSize = 
+BatchSize = 64
+DeviceType = aarch64
+CaseName = yolov5s_v7.0_bs64_p_acc
+ActualFPS = 
+TrainingTime = 
+E2ETrainingTime = 0
